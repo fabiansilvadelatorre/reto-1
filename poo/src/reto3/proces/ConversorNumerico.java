@@ -11,6 +11,6 @@ public class ConversorNumerico {
      * @return num en base binario
      */
     public static String decimalabinario(String decimal){
-return ;
+return "101010";
     }
 }
